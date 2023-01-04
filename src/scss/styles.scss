@@ -1,0 +1,7 @@
+@import 'variables';
+$font-color: red;
+
+html {
+    font-size: $font-size;
+    color: $font-color;
+}
